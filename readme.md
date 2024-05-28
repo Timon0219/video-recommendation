@@ -142,22 +142,41 @@ By following this project plan, the development team can create a robust AI-enha
 
 Citations:
 [1] https://www.comsoc.org/publications/magazines/ieee-network/cfp/advancements-network-assisted-video-streaming-optimization
+
 [2] https://jemsu.com/what-role-does-ai-play-in-reducing-the-bandwidth-needed-for-video-streaming/
+
 [3] https://redresscompliance.com/ai-techniques-for-video-analysis/
+
 [4] https://www.markdownguide.org/getting-started/
+
 [5] https://www.markdownguide.org/basic-syntax/
+
 [6] https://www.writethedocs.org/guide/writing/markdown/
+
 [7] https://intelgic.com/insights/use-cases-of-ai-based-video-content-analysis/
+
 [8] https://document360.com/blog/introductory-guide-to-markdown-for-documentation-writers/
+
 [9] https://zapier.com/blog/best-ai-video-generator/
+
 [10] https://gyrus.ai/markets/video-streaming/
+
 [11] https://cloud.google.com/video-intelligence
+
 [12] https://www.infopulse.com/blog/telecom-network-optimization-ai
+
 [13] https://www.harmonicinc.com/insights/blog/ai-video-streaming/
+
 [14] https://daringfireball.net/projects/markdown/syntax
+
 [15] https://plat.ai/blog/ai-powered-network-optimization-in-telecommunication/
+
 [16] https://www.edenai.co/post/top-free-video-analysis-tools-apis-and-open-source-models
+
 [17] https://www.freecodecamp.org/news/markdown-cheat-sheet/
+
 [18] https://www.strong.io/blog/ai-for-real-time-video-streams
+
 [19] https://www.edenai.co/post/video-content-analysis-now-available-on-eden-ai
+
 [20] https://blog.hubspot.com/marketing/ai-video-generator
